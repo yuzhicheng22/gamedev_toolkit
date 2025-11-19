@@ -1,5 +1,7 @@
 # 序列帧
+
 ## 环境
+
 1. 确保依赖库的正确安装
 2. 安装TexturePcakerUI命令行工具，并添加到环境变量中，确保可以正常使用`TexturePacker`
 
@@ -29,4 +31,4 @@
 生成动画文件  
 步骤3：  
 生成CocosCreator中需要使用的Prefab。  
-PS：需要确保引用到上面生成的Prefab的Prefab中对序列帧动画有正确的引用关系，手动设置  
+PS：需要确保引用到上面生成的Prefab的Prefab中对序列帧动画有正确的引用关系，手动设置

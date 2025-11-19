@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "es6",
+    "target": "es6",
+    "noEmitHelpers": true,
+    "sourceMap": true,
+    "typeRoots": ["./libs"]
+  },
+  
+  "include": [
+    "src","libs"
+  ]
+  // "exclude": [
+  //   "node_modules",
+  //   "resource"
+  // ]
+}
