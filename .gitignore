@@ -5,3 +5,14 @@ frontend/dist
 /mapParse/result
 /mapParse/Common
 /Common
+
+# 工具输出目录
+tools/*/gen
+tools/*/dist
+
+# Node modules (全局)
+*/node_modules
+
+# 日志
+*.log
+npm-debug.log*
